@@ -1,2 +1,3 @@
 n=input()
-print(max(n))
+s=str(n)
+print(max(s))
