@@ -5,8 +5,8 @@ for i in range(l):
     m=i+1
     for j in range(m,l):
         if(n[i]==n[j]):
-            c=l
+            c=1
 if c==0:
-    print("Unique Number")
+    print('Unique Number')
 else:
-    print("Not Unique Number")
+    print('Not Unique Number')
