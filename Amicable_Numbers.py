@@ -9,6 +9,6 @@ for j in range(1,b):
     if b%j==0:
         s1=s1+j
 if s==b and s1==a:
-    print("Amicable")
+    print ('Amicable')
 else:
-    print("Not Amicable")
+    print('Not Amicable')
