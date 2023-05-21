@@ -1,3 +1,3 @@
+import math
 n=input()
-s=str(n)
-print(max(s))
+print(max(n))
